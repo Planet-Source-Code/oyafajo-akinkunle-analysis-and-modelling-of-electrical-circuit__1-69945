@@ -1,0 +1,179 @@
+[Root]
+Most Recent Package=College Projects
+
+
+[Package|Standard Setup Package 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\OhmsLawCalc
+
+[Package|Standard Setup Package 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Standard Setup Package 1|Files Found]
+
+[Package|Standard Setup Package 1|Files Released]
+
+[Package|Standard Setup Package 1|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\aUfoButton.ocx=
+
+[Package|Standard Setup Package 1|Out-of-Date Dependency Information]
+
+[Package|Standard Setup Package 1|Files Added]
+
+[Package|Standard Setup Package 1|Files Removed]
+c:\windows\system\msvbvm60.dll=
+c:\windows\system\oleaut32.dll=
+c:\windows\system\olepro32.dll=
+c:\windows\system\asycfilt.dll=
+c:\windows\system\stdole2.tlb=
+c:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+
+[Package|Standard Setup Package 1|Files In Project]
+C:\My Documents\College Work\Year 2\Programming\Ohms Law Calculator\Ohms Law Calculator.exe=Yes
+C:\WINDOWS\SYSTEM\msvbvm60.dll=No
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=No
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=No
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=No
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINDOWS\SYSTEM\aUfoButton.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Standard Setup Package 1|Configure Registry Files]
+Applicable=No
+
+[Package|Standard Setup Package 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Standard Setup Package 1|Install Locations]
+C:\My Documents\College Work\Year 2\Programming\Ohms Law Calculator\Ohms Law Calculator.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\aUfoButton.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Standard Setup Package 1|Configure Shared Files]
+Applicable=Yes
+C:\My Documents\College Work\Year 2\Programming\Ohms Law Calculator\Ohms Law Calculator.exe=No
+
+[Package|Standard Setup Package 1|Distribution]
+Type=single
+Size=
+Title=Ohms Law Calculator
+
+[Package|Standard Setup Package 1|IconGroups]
+Group0=Ohms Law Calculator
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|Standard Setup Package 1|Ohms Law Calculator]
+Icon1="Ohms Law Calculator.exe"
+Title1=Ohms Law Calculator
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Standard Setup Package 1|Package]
+PackageFolder=C:\OhmsLawCalc
+ProjectFolder=C:\My Documents\College Work\Year 2\Programming\Ohms Law Calculator
+ServerSideCab=
+File1=C:\OhmsLawCalc\setup.exe
+File2=C:\OhmsLawCalc\Setup.Lst
+File3=C:\OhmsLawCalc\Ohms Law Calculator.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|College Projects|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\OhmsLawCalc
+
+[Package|College Projects|Configure DAO ISAMs]
+Applicable=No
+
+[Package|College Projects|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|College Projects|Files Found]
+
+[Package|College Projects|Files Released]
+
+[Package|College Projects|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\aUfoButton.ocx=
+
+[Package|College Projects|Out-of-Date Dependency Information]
+
+[Package|College Projects|Files Added]
+
+[Package|College Projects|Files Removed]
+c:\windows\system\msvbvm60.dll=
+c:\windows\system\oleaut32.dll=
+c:\windows\system\olepro32.dll=
+c:\windows\system\asycfilt.dll=
+c:\windows\system\stdole2.tlb=
+c:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+
+[Package|College Projects|Files In Project]
+C:\My Documents\College Work\Year 2\Programming\Ohms Law Calculator\Ohms Law Calculator.exe=Yes
+C:\WINDOWS\SYSTEM\msvbvm60.dll=No
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=No
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=No
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=No
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINDOWS\SYSTEM\aUfoButton.ocx=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|College Projects|Configure Registry Files]
+Applicable=No
+
+[Package|College Projects|Configure Remote Servers]
+Applicable=No
+
+[Package|College Projects|Install Locations]
+C:\My Documents\College Work\Year 2\Programming\Ohms Law Calculator\Ohms Law Calculator.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\aUfoButton.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|College Projects|Configure Shared Files]
+Applicable=Yes
+C:\My Documents\College Work\Year 2\Programming\Ohms Law Calculator\Ohms Law Calculator.exe=No
+
+[Package|College Projects|Distribution]
+Type=single
+Size=
+Title=Ohms Law Calculator
+
+[Package|College Projects|Package]
+PackageFolder=C:\OhmsLawCalc
+ProjectFolder=C:\My Documents\College Work\Year 2\Programming\Ohms Law Calculator
+ServerSideCab=
+File1=C:\OhmsLawCalc\setup.exe
+File2=C:\OhmsLawCalc\Setup.Lst
+File3=C:\OhmsLawCalc\Ohms Law Calculator.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|College Projects|IconGroups]
+Group0=Ohms Law Calculator
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|College Projects|Ohms Law Calculator]
+Icon1="Ohms Law Calculator.exe"
+Title1=Ohms Law Calculator
+StartIn1=$(AppPath)
+Key1=Icon1
